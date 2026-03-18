@@ -1,0 +1,10 @@
+AMES,Mary,123 Maple,Stillwater,OK,74075
+BROWN,Martha,625 Kimbark,Des Moines,IA,50311
+DAMASSA,Andrezao,67 Arquitetura dos computa,Apucarana,PR,86800
+DALSICHA,Tamara,10 Compila Street,Londrina,PR,85800
+MANTOVANI,Rafael,14 Rua Cobol,Rolandopolis,PR,86605
+MASON,Alan,90 Eastgate,Ada,OK,74820
+MAUMAU,Mauricio,524 Rua dos Controles,Apucarana,PR,86800
+MORRISON,Sebatian,9035 South Hill,Forest Village,OK,74820
+NALDO,Eri,12 FPGA,Apucarana,PR,86800
+VEGANO,Fernando,07 Redes N7,Apucarana,PR,86800
